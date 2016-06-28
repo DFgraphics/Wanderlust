@@ -76,7 +76,7 @@ Alter these options to control how aggressively your dwarves place objects in a 
 
 Change this to YES to disallow pets from coffin burial as the default option.
 
-[COFFIN_NO_PETS_DEFAULT:YES]
+[COFFIN_NO_PETS_DEFAULT:NO]
 
 Use these to set the color of wounded body parts.  The format is <foreground color>:<background color>:<brightness>.
 
